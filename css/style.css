@@ -1,0 +1,26 @@
+body{
+    font: 20px arial serif;
+}
+
+
+.img-ajuste{
+    margin-left: 50px;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(245, 245, 245);
+}
+
+.bg-footer{
+    background-color: rgb(35, 51, 70);
+}
+
+.bg-footer p{
+    color: rgb(228, 241, 240);
+}
+
